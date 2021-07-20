@@ -9,7 +9,7 @@
 
 ## `mxthevs@pc~$ whoami`
 
-My name is Matheus Henrique and I'm currently graduating in System Analysis and Development @ FATEC Lins - São Paulo, Brazil. Working from home.
+My name is Matheus Henrique and I'm graduated in System Analysis and Development @ FATEC Lins - São Paulo, Brazil. Working from home.
 
 ---
 
