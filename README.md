@@ -11,6 +11,14 @@
 
 My name is Matheus Henrique and I'm graduated in System Analysis and Development @ FATEC Lins - São Paulo, Brazil. Working from home.
 
+```diff
+@@Frontend Developer @ SRVCloud@@
++ Pirajuí - São Paulo, Brazil.
+- 21 years old
+! Never git reset --HARD
+# 📖 My interests are functional programming, web development and creating fun projects.
+```
+
 ---
 
 Wanna talk? Send me an [e-mail](mailto:matheuscdasilva2@hotmail.com) 📧.
