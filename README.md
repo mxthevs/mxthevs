@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 # Matheus Henrique 👨‍💻
 
@@ -21,7 +22,11 @@ My name is Matheus Henrique and I'm graduated in System Analysis and Development
 
 ---
 
-Wanna talk? Send me an [e-mail](mailto:matheuscdasilva2@hotmail.com) 📧.
+Wanna talk? Send me an [e-mail](mailto:matheuscdasilva2@hotmail.com) 📧
+<br />
+Or @ me at [my twitter](https://twitter.com/mxthevsh) <i class="fab fa-twitter"></i>
+<br />
+Or emit some sort of smoke signal. Maybe I'll see it.
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30">
