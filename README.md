@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-
 # Matheus Henrique 👨‍💻
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,7 +22,7 @@ My name is Matheus Henrique and I'm graduated in System Analysis and Development
 
 Wanna talk? Send me an [e-mail](mailto:matheuscdasilva2@hotmail.com) 📧
 <br />
-Or @ me at [my twitter](https://twitter.com/mxthevsh) <i class="fab fa-twitter"></i>
+Or @ me at [my twitter](https://twitter.com/mxthevsh) 🐦
 <br />
 Or emit some sort of smoke signal. Maybe I'll see it.
 
