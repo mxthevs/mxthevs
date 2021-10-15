@@ -8,19 +8,19 @@
 
 ## `mxthevs@pc~$ whoami`
 
-My name is Matheus Henrique and I'm graduated in System Analysis and Development @ FATEC Lins - São Paulo, Brazil. Working from home.
+My name is Matheus Henrique and I'm graduated in System Analysis and Development @ FATEC Lins - São Paulo, Brazil.
+<br />
+Currenty Frontend Developer @ [SRVCloud](https://github.com/srvcloud). Working from home.
 
 ```diff
-@@Frontend Developer @ SRVCloud@@
 + Pirajuí - São Paulo, Brazil.
 - 21 years old
-! Never git reset --HARD
 # 📖 My interests are functional programming, web development and creating fun projects.
 ```
 
 ---
 
-Wanna talk? Send me an [e-mail](mailto:matheuscdasilva2@hotmail.com) 📧
+Wanna talk? Send me an [e-mail](matheuscdasilva2@hotmail.com) 📧
 <br />
 Or @ me at [my twitter](https://twitter.com/mxthevsh) 🐦
 <br />
