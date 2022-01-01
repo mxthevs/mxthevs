@@ -1,11 +1,10 @@
 # Matheus Henrique 👨‍💻
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-DDB321?style=square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-6CC24A?style=square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=square&logo=typescript)
 ![OCaml](https://img.shields.io/badge/-OCaml-c15540?style=square&logo=ocaml&logoColor=white)
+![ReasonML](https://img.shields.io/badge/-ReasonML-DD4B3A?style=square&logo=reason&logoColor=white)
 
 ## `mxthevs@pc~$ whoami`
 
