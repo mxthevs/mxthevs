@@ -15,7 +15,7 @@ Currenty Frontend Developer @ [SRVCloud](https://github.com/srvcloud). Working f
 ```diff
 + Pirajuí - São Paulo, Brazil.
 - 21 years old
-# 📖 My interests are functional programming, web development, creative programming and camels 🐫.
+# I like Functional Programming, web development and Camels 🐫.
 ```
 
 ---
