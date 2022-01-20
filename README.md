@@ -9,7 +9,7 @@
 ## `mxthevs@pc~$ whoami`
 
 My name is Matheus Henrique and I'm graduated in System Analysis and Development @ FATEC Lins - São Paulo, Brazil.
-<br />
+
 Currenty Frontend Developer @ [SRVCloud](https://github.com/srvcloud). Working from home.
 
 ```diff
@@ -17,6 +17,12 @@ Currenty Frontend Developer @ [SRVCloud](https://github.com/srvcloud). Working f
 - 21 years old
 # I like Functional Programming, web development and Camels 🐫.
 ```
+
+### My open source contributions
+
+&nbsp;&nbsp;<img src="./assets/typescript.svg" alt="typescript" height="30px" style="padding-right: 3px;" align="center" /> **conduit-api** - [feat: Native HTTP port](https://github.com/fdaciuk/conduit-api/pull/28)
+
+&nbsp;&nbsp;<img src="./assets/rescript.svg" alt="rescript" height="30px" style="padding-right: 3px;" align="center" /> **rescript-contentful** - [fix: add `@send` to `getEntries`](https://github.com/arafatamim/rescript-contentful/pull/1)
 
 ---
 
