@@ -5,6 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=square&logo=typescript)
 ![OCaml](https://img.shields.io/badge/-OCaml-c15540?style=square&logo=ocaml&logoColor=white)
 ![ReasonML](https://img.shields.io/badge/-ReasonML-DD4B3A?style=square&logo=reason&logoColor=white)
+![ReScript](https://img.shields.io/badge/-ReScript-E6484F?style=square&logo=rescript&logoColor=white)
 
 ## `mxthevs@pc~$ whoami`
 
