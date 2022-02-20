@@ -25,6 +25,8 @@ Currenty Frontend Developer @ [SRVCloud](https://github.com/srvcloud). Working f
 
 &nbsp;&nbsp;<img src="./assets/rescript.svg" alt="rescript" height="30px" style="padding-right: 3px;" align="center" /> **rescript-contentful** - [fix: add `@send` to `getEntries`](https://github.com/arafatamim/rescript-contentful/pull/1)
 
+&nbsp;&nbsp;<img src="./assets/rescript.svg" alt="rescript" height="30px" style="padding-right: 3px;" align="center" /> **simple-icons** - [Add ReScript icon](https://github.com/simple-icons/simple-icons/pull/7108)
+
 ---
 
 Wanna talk? Send me an [e-mail](matheuscdasilva2@hotmail.com) 📧
