@@ -11,7 +11,7 @@
 
 My name is Matheus Henrique and I'm graduated in System Analysis and Development @ FATEC Lins - São Paulo, Brazil.
 
-Currenty Frontend Developer @ [SRVCloud](https://github.com/srvcloud). Working from home.
+Currenty Frontend Developer @ [ecustos](https://github.com/ecustos). Working from home.
 
 ```diff
 + Pirajuí - São Paulo, Brazil.
