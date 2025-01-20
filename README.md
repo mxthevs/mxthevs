@@ -30,10 +30,6 @@ Currenty Frontend Developer @ [ecustos](https://github.com/ecustos). Working fro
 ---
 
 Wanna talk? Send me an [e-mail](matheuscdasilva2@hotmail.com) 📧
-<br />
-Or @ me at [my twitter](https://twitter.com/mxthevsh) 🐦
-<br />
-Or emit some sort of smoke signal. Maybe I'll see it.
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="30" height="30">
